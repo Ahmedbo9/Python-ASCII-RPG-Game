@@ -4,6 +4,6 @@ ahmed
 1
 0
 0
-6
-4
-True
+1
+0
+False
